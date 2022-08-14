@@ -1,2 +1,2 @@
-# acm-cfw
-Custom firmware for the Astro City Mini
+# Astro City Mini Custom Firmware
+
